@@ -1,0 +1,6 @@
+setuptools
+nose
+sphinx
+flask==0.12.4
+gunicorn==20.1.0
+tomcatmanager==4.0.0
